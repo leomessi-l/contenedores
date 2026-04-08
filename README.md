@@ -16,16 +16,24 @@ actividad3 crear 3 filas, la primera conendra dos columnas, la segunda 3 yla ter
 </div>
 
 2:
-<div class="container mt-4">
-  <div class="row text-white text-center mb-2">
-    <div class="col-6 bg-info p-4">F1 - Columna A</div>
-    <div class="col-6 bg-secondary p-4">F1 - Columna B</div>
-  </div>
-  
-  <div class="row text-white text-center">
-    <div class="col-6 bg-dark p-4">F2 - Columna A</div>
-    <div class="col-6 bg-primary p-4">F2 - Columna B</div>
-  </div>
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-6 bg-primary">
+            Fila 1 - Columna 1 (Azul)
+        </div>
+        <div class="col-6 bg-success">
+            Fila 1 - Columna 2 (Verde)
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 bg-danger">
+            Fila 2 - Columna 1 (Rojo)
+        </div>
+        <div class="col-6 bg-warning text-dark">
+            Fila 2 - Columna 2 (Amarillo)
+        </div>
+    </div>
 </div>
 
 3:

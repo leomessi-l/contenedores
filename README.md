@@ -24,8 +24,6 @@ actividad3 crear 3 filas, la primera conendra dos columnas, la segunda 3 yla ter
         <div class="col-6 bg-success">
             Fila 1 - Columna 2 (Verde)
         </div>
-    </div>
-
     <div class="row">
         <div class="col-6 bg-danger">
             Fila 2 - Columna 1 (Rojo)
